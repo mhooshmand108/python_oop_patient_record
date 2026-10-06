@@ -2,7 +2,6 @@
 A beginner-friendly Python OOP project for managing patient records.
 🏥 Python EHR System
 
-A beginner-friendly Python project that simulates a simple Electronic Health Records (EHR) system for a hospital.
 
 The project was built to practice core Object-Oriented Programming (OOP) concepts in Python, including classes, objects, inheritance, "super()", method overriding, class attributes, and magic methods.
 
