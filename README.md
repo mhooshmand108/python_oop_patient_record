@@ -1,4 +1,5 @@
-# python_oop_patient_record
+# python-oop-patient-record     
+
 A beginner-friendly Python OOP project for managing patient records.
 🏥 Python EHR System
 
